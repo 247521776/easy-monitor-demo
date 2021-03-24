@@ -1,0 +1,26 @@
+{
+  "name": "easy-monitor-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/247521776/easy-monitor-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/247521776/easy-monitor-demo/issues"
+  },
+  "homepage": "https://github.com/247521776/easy-monitor-demo#readme",
+  "dependencies": {
+    "@optum/knack-consumer": "^1.0.0",
+    "node-rdkafka": "^2.10.1",
+    "xprofiler": "^1.2.5",
+    "xtransit": "^1.2.3"
+  }
+}
